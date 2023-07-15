@@ -984,3 +984,5 @@ CDN:
     # artalk_css:
     # busuanzi:
     # abcjs_basic_js:
+
+# 在 hexo 的根目錄創建一個文件 _config.butterfly.yml，並把此 _config.yml 內容複製到 _config.butterfly.yml 去
